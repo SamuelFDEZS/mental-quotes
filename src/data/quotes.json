@@ -1,0 +1,272 @@
+[
+  {
+    "id": "q1",
+    "text": "Solo sé que no sé nada.",
+    "author": "Sócrates",
+    "year": -400,
+    "category": "conocimiento",
+    "tags": ["ignorancia", "sabiduria"],
+    "language": "es"
+  },
+  {
+    "id": "q2",
+    "text": "El hombre está condenado a ser libre.",
+    "author": "Jean-Paul Sartre",
+    "year": 1943,
+    "category": "libertad",
+    "tags": ["existencialismo", "responsabilidad"],
+    "language": "es"
+  },
+  {
+    "id": "q3",
+    "text": "Dios ha muerto.",
+    "author": "Friedrich Nietzsche",
+    "year": 1882,
+    "category": "existencialismo",
+    "tags": ["nihilismo", "religion"],
+    "language": "es"
+  },
+  {
+    "id": "q4",
+    "text": "Pienso, luego existo.",
+    "author": "René Descartes",
+    "year": 1637,
+    "category": "conocimiento",
+    "tags": ["razon", "duda"],
+    "language": "es"
+  },
+  {
+    "id": "q5",
+    "text": "La felicidad no es algo hecho. Viene de tus propias acciones.",
+    "author": "Buda",
+    "year": -500,
+    "category": "felicidad",
+    "tags": ["acciones", "vida"],
+    "language": "es"
+  },
+  {
+    "id": "q6",
+    "text": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
+    "author": "Friedrich Nietzsche",
+    "year": 1889,
+    "category": "proposito",
+    "tags": ["vida", "resiliencia"],
+    "language": "es"
+  },
+  {
+    "id": "q7",
+    "text": "No es lo que te sucede, sino cómo reaccionas lo que importa.",
+    "author": "Epicteto",
+    "year": 100,
+    "category": "estoicismo",
+    "tags": ["emociones", "control"],
+    "language": "es"
+  },
+  {
+    "id": "q8",
+    "text": "La vida es realmente simple, pero insistimos en hacerla complicada.",
+    "author": "Confucio",
+    "year": -500,
+    "category": "vida",
+    "tags": ["simplicidad"],
+    "language": "es"
+  },
+  {
+    "id": "q9",
+    "text": "Nada es permanente, excepto el cambio.",
+    "author": "Heráclito",
+    "year": -500,
+    "category": "cambio",
+    "tags": ["tiempo", "transformacion"],
+    "language": "es"
+  },
+  {
+    "id": "q10",
+    "text": "El que tiene miedo de sufrir ya sufre por lo que teme.",
+    "author": "Michel de Montaigne",
+    "year": 1580,
+    "category": "ansiedad",
+    "tags": ["miedo", "pensamiento"],
+    "language": "es"
+  },
+  {
+    "id": "q11",
+    "text": "La felicidad depende de nosotros mismos.",
+    "author": "Aristóteles",
+    "year": -350,
+    "category": "felicidad",
+    "tags": ["control", "vida"],
+    "language": "es"
+  },
+  {
+    "id": "q12",
+    "text": "El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice.",
+    "author": "Aristóteles",
+    "year": -350,
+    "category": "sabiduria",
+    "tags": ["comunicacion", "mente"],
+    "language": "es"
+  },
+  {
+    "id": "q13",
+    "text": "El hombre es la medida de todas las cosas.",
+    "author": "Protágoras",
+    "year": -450,
+    "category": "relativismo",
+    "tags": ["percepcion"],
+    "language": "es"
+  },
+  {
+    "id": "q14",
+    "text": "Quien se domina a sí mismo es más poderoso que quien conquista una ciudad.",
+    "author": "Aristóteles",
+    "year": -350,
+    "category": "disciplina",
+    "tags": ["control", "fuerza"],
+    "language": "es"
+  },
+  {
+    "id": "q15",
+    "text": "El mayor error del ser humano es intentar sacar de su cabeza aquello que no sale de su corazón.",
+    "author": "Arthur Schopenhauer",
+    "year": 1851,
+    "category": "emociones",
+    "tags": ["mente", "sentimientos"],
+    "language": "es"
+  },
+  {
+    "id": "q16",
+    "text": "La libertad no consiste en hacer lo que se quiere, sino en no ser esclavo de nada.",
+    "author": "Epicteto",
+    "year": 120,
+    "category": "libertad",
+    "tags": ["control", "estoicismo"],
+    "language": "es"
+  },
+  {
+    "id": "q17",
+    "text": "El dolor es inevitable, el sufrimiento es opcional.",
+    "author": "Buda",
+    "year": -500,
+    "category": "estoicismo",
+    "tags": ["dolor", "mente"],
+    "language": "es"
+  },
+  {
+    "id": "q18",
+    "text": "La verdadera sabiduría está en reconocer la propia ignorancia.",
+    "author": "Sócrates",
+    "year": -400,
+    "category": "conocimiento",
+    "tags": ["sabiduria"],
+    "language": "es"
+  },
+  {
+    "id": "q19",
+    "text": "Cuanto más conozco a los hombres, más quiero a mi perro.",
+    "author": "Diógenes",
+    "year": -350,
+    "category": "sociedad",
+    "tags": ["critica", "humanidad"],
+    "language": "es"
+  },
+  {
+    "id": "q20",
+    "text": "No hay viento favorable para quien no sabe a dónde va.",
+    "author": "Séneca",
+    "year": 60,
+    "category": "proposito",
+    "tags": ["direccion", "vida"],
+    "language": "es"
+  },
+  {
+    "id": "q21",
+    "text": "El obstáculo es el camino.",
+    "author": "Marco Aurelio",
+    "year": 170,
+    "category": "estoicismo",
+    "tags": ["dificultad", "crecimiento"],
+    "language": "es"
+  },
+  {
+    "id": "q22",
+    "text": "Si no controlas tu mente, alguien más lo hará.",
+    "author": "John Allston",
+    "year": 1800,
+    "category": "mente",
+    "tags": ["control", "pensamiento"],
+    "language": "es"
+  },
+  {
+    "id": "q23",
+    "text": "No es pobre el que tiene poco, sino el que desea mucho.",
+    "author": "Séneca",
+    "year": 60,
+    "category": "filosofia",
+    "tags": ["deseo", "vida"],
+    "language": "es"
+  },
+  {
+    "id": "q24",
+    "text": "La calidad de tu vida depende de la calidad de tus pensamientos.",
+    "author": "Marco Aurelio",
+    "year": 170,
+    "category": "mente",
+    "tags": ["pensamiento", "vida"],
+    "language": "es"
+  },
+  {
+    "id": "q25",
+    "text": "Lo que haces hoy puede mejorar todos tus mañanas.",
+    "author": "Ralph Waldo Emerson",
+    "year": 1840,
+    "category": "disciplina",
+    "tags": ["accion", "futuro"],
+    "language": "es"
+  },
+  {
+    "id": "q26",
+    "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+    "author": "Robert Collier",
+    "year": 1920,
+    "category": "disciplina",
+    "tags": ["constancia", "progreso"],
+    "language": "es"
+  },
+  {
+    "id": "q27",
+    "text": "No busques que los acontecimientos ocurran como quieres, desea que ocurran como ocurren.",
+    "author": "Epicteto",
+    "year": 100,
+    "category": "estoicismo",
+    "tags": ["aceptacion"],
+    "language": "es"
+  },
+  {
+    "id": "q28",
+    "text": "La mente lo es todo. En lo que piensas te conviertes.",
+    "author": "Buda",
+    "year": -500,
+    "category": "mente",
+    "tags": ["pensamiento", "identidad"],
+    "language": "es"
+  },
+  {
+    "id": "q29",
+    "text": "El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión de conocimiento.",
+    "author": "Stephen Hawking",
+    "year": 1988,
+    "category": "conocimiento",
+    "tags": ["error", "mente"],
+    "language": "es"
+  },
+  {
+    "id": "q30",
+    "text": "Haz lo que puedas, con lo que tengas, donde estés.",
+    "author": "Theodore Roosevelt",
+    "year": 1901,
+    "category": "accion",
+    "tags": ["practico", "vida"],
+    "language": "es"
+  }
+]
