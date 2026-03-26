@@ -1,26 +1,27 @@
 @use "../../variables" as *;
 
 .explore-categories {
-    width: 70%;
-    height: 52vh;
+    width: 55%;
+    height: 40vh;
     margin-top: 7%;
     display: flex;
     flex-direction: column;
     position: relative;
     gap: 2%;
     left: 50%;
-    border: 3px solid white;
     transform: translateX(-50%);
 
     &__title {
         width: 30%;
         font-size: 1.5rem;
+        margin-left: 0.5%;
     }
 
     &__subtitle {
         font-weight: 300;
         color: $text-color-secondary;
         font-size: 0.9rem;
+        margin-left: 0.5%;
     }
 
     &__all {
@@ -48,19 +49,66 @@
 
     &__categories {
         width: 100%;
-        height: 70%;
-        border: 3px solid white;
-        margin-top: 5%;
+        height: 65%;
+        margin-top: 1%;
         display: flex;
         gap: 2%;
+
         &__category {
             flex: 1;
-            background-image: url("https://img.freepik.com/foto-gratis/tomada-vertical-pasaje-madera-sobre-pequeno-lago-reflectante-cordillera-horizonte_181624-37099.jpg?semt=ais_hybrid&w=740&q=80");
-            background-size: cover;
             border-radius: 20px;
-            display: flex;
-            justify-content: center;
-            background-repeat: no-repeat;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;
+
+            &__bg {
+                position: absolute;
+                inset: 0;
+                background-repeat: no-repeat;
+                background-size: cover;
+                border-radius: 20px;
+                filter: brightness(75%);
+                transition: 0.5s cubic-bezier(0.65, 0.05, 0.36, 1);
+                display: flex;
+
+                &:hover {
+                    filter: brightness(90%);
+
+                }
+
+                & img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+
+            &:hover {
+                &>.explore-categories__categories__category__bg {
+                    scale: 1.08;
+                }
+            }
+
+            &::after {
+                content: "";
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 90px;
+
+                background: linear-gradient(to bottom, transparent, #0f172ae6);
+                z-index: 1;
+            }
+
+            /* Aquí falta añadir una animación en el background para que al pasar el ratón por encima se aumente el tamaño del background. Además de que el cursor tiene que ser pointer */
+
+            & h1 {
+                position: absolute;
+                font-size: 1.3rem;
+                bottom: 5%;
+                left: 5%;
+                z-index: 2;
+            }
         }
     }
 }

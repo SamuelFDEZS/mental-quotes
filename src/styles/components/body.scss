@@ -5,3 +5,8 @@ body{
     color: $text-color-primary;
     font-family: $text-font;
 }
+
+::selection {
+    background: $color-primary;
+    color: #ffffff;
+}

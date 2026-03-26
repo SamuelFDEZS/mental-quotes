@@ -1,0 +1,27 @@
+.featured-authors {
+  width: 55%;
+  height: 35vh;
+  border: 3px solid white;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+}
+.featured-authors__title {
+  width: 30%;
+  font-size: 1.5rem;
+  margin-left: 0.5%;
+}
+.featured-authors__subtitle {
+  font-weight: 300;
+  color: rgba(16, 185, 129, 0.6);
+  font-size: 0.9rem;
+  margin-left: 0.5%;
+}
+.featured-authors__container {
+  width: 100%;
+  height: 50%;
+  margin-top: 5%;
+  border: 3px solid white;
+}/*# sourceMappingURL=featuredAuthors.css.map */

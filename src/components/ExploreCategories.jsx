@@ -11,11 +11,44 @@ export const ExploreCategories = ({ categoriesList }) => {
             </a>
             <div className="explore-categories__categories">
                 {/* Aqui hay que importar las categorías, que recibiremos desde App */}
-                <div className="explore-categories__categories__category">Motivación</div>
-                <div className="explore-categories__categories__category">Nostalgia</div>
-                <div className="explore-categories__categories__category">Disciplina</div>
-                <div className="explore-categories__categories__category">Sabiduría</div>
-                <div className="explore-categories__categories__category">Estoicismo</div>
+                <div className="explore-categories__categories__category">
+                    <div className="explore-categories__categories__category__bg">
+                        <img src="/src/assets/sunset-bg.png" alt="" />
+                    </div>
+                    <h1>Motivación</h1>
+                </div>
+
+                <div className="explore-categories__categories__category">
+                    <div className="explore-categories__categories__category__bg">
+                        <img src="/src/assets/leaves-bg.png" alt="" />
+
+                    </div>
+                    <h1>Nostalgia</h1>
+                </div>
+
+                <div className="explore-categories__categories__category">
+                    <div className="explore-categories__categories__category__bg">
+                        <img src="/src/assets/discipline-bg.png" alt="" />
+
+                    </div>
+                    <h1>Disciplina</h1>
+                </div>
+
+                <div className="explore-categories__categories__category">
+                    <div className="explore-categories__categories__category__bg">
+                        <img src="/src/assets/books-bg.png" alt="" />
+
+                    </div>
+                    <h1>Sabiduría</h1>
+                </div>
+
+                <div className="explore-categories__categories__category">
+                    <div className="explore-categories__categories__category__bg">
+                        <img src="/src/assets/statue-bg.png" alt="" />
+
+                    </div>
+                    <h1>Estoicismo</h1>
+                </div>
             </div>
         </section>
     );
