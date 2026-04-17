@@ -1,7 +1,18 @@
+// Global
 @use "./reset.scss";
 @use "./components/body.scss";
 @use "./components/header.scss";
+@use './components/footer.scss';
+
+// Home
 @use './components/home/mainLayout.scss';
 @use './components/Home/exploreCategories.scss';
 @use './components/Home/featuredAuthors.scss';
+
+// Sign
+@use "./components/Sign/sign-header.scss";
+@use "./components/Sign/sign-main.scss";
+
+
+// Others
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');

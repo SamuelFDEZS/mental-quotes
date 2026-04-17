@@ -32,7 +32,6 @@
         align-items: center;
         gap: 8%;
         
-
         &__item {
             flex: 1;
             display: flex;
@@ -40,15 +39,27 @@
             align-items: center;
             aspect-ratio: 1;
             min-width: 0;
+            cursor: pointer;
 
+            &:hover {
+                & .featured-authors__container__item__content {
+                    box-shadow: 0 0 0 3px #19b34d;
+                }
+
+                & .featured-authors__container__item__name {
+                    color: #19b34d;
+                }
+            }
             &__content {
-                background-color: rgb(6 78 59 / 0.2);
+                background-color: #064e3b33;
                 aspect-ratio: 1;
                 border-radius: 50%;
                 display: flex;
                 justify-content: center;
                 overflow: hidden;
                 align-items: center;
+                transition: 0.2s ease;
+                box-shadow: 0 0 0 0 #19b34d;
                 
 
                 &__picture {
@@ -80,6 +91,7 @@
                 text-align: center;
                 letter-spacing: 3%;
                 white-space: nowrap;
+                transition: 0.2s ease;
             }
         }
     }

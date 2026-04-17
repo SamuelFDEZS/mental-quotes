@@ -1,0 +1,85 @@
+@use "../../variables" as *;
+
+.sign-main {
+    width: 100%;
+    height: 60vh;
+    border: 3px solid white;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__text {
+        width: 25%;
+        height: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        &__title {
+            margin-bottom: 5%;
+            font-size: 3rem;
+            line-height: 120%;
+
+            & span {
+                color: $color-primary;
+            }
+        }
+
+        &__subtitle {
+            width: 80%;
+            color: #94a3b8;
+            font-size: 1.15rem;
+            line-height: 140%;
+        }
+    }
+
+    &__form {
+        width: 17%;
+        height: 77%;
+        border: 1px solid #19b34d1a;
+        border: 3px solid white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        &__header {
+            width: 70%;
+            height:10%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20%;
+            margin-top: 5%;
+
+            &__title {
+                font-size: 1.4rem;
+            }
+
+            &__subtitle {
+                font-size: 1rem;
+                color: #94a3b8;
+            }
+        }
+
+        &__choosing {
+            width: 85%;
+            height: 7%;
+            margin-top: 5%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            border-radius: 15px;
+            
+
+            &__button {
+                width: 50%;
+                height: 100%;
+                border: 0;
+                outline: none;
+            }
+        }
+    }
+}

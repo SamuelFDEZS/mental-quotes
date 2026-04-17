@@ -1,19 +1,16 @@
 import { useState } from 'react';
-import { Header } from './components/header';
-import { MainLayout } from './components/MainLayout';
-import { ExploreCategories } from './components/ExploreCategories';
-import { FeaturedAuthors } from './components/FeaturedAuthors';
-import { Footer } from './components/Footer';
+import { Home } from './pages/Home';
+import { Routes, Route } from 'react-router';
 import './styles/main.scss';
+import { Sign } from './pages/Sign';
 
 function App () {
     return (
         <>
-            <Header />
-            <MainLayout />
-            <ExploreCategories />
-            <FeaturedAuthors />
-            <Footer />
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/sign" element={<Sign />} />
+            </Routes>
         </>
     );
 }

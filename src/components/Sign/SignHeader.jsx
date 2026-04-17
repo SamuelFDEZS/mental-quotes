@@ -1,0 +1,20 @@
+import { MentalLogo } from '../Global/MentalLogo';
+import { useNavigate } from 'react-router';
+export const SignHeader = () => {
+    const navigate = useNavigate();
+    const navigateToHome = () => {
+        navigate('/');
+    };
+    return (
+        <header className='sign-header'>
+            <MentalLogo />
+            <button onClick={navigateToHome} className="sign-header__button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="currentColor" d="M20 11v2H8l5.5 5.5l-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5L8 11z"/>
+                </svg>
+
+                <span className="sign-header__button__text">Volver al Inicio</span>
+            </button>
+        </header>
+    );
+};
