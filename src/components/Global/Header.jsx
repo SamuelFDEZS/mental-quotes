@@ -14,10 +14,13 @@ export const Header = () => {
     return (
         <header className="header">
 
-            <MentalLogo isFooter={false} />
-            <Navbar />
+            <div className="header__container">
 
-            <button onClick={goToSign} className="header__sign-button">{isSigned ? userName : 'Iniciar Sesión'}</button>
+                <MentalLogo isFooter={false} />
+                <Navbar />
+
+                <button onClick={goToSign} className="header__sign-button">{isSigned ? userName : 'Iniciar Sesión'}</button>
+            </div>
         </header>
     );
 };

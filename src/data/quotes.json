@@ -4,7 +4,7 @@
     "text": "Solo sé que no sé nada.",
     "author": "Sócrates",
     "year": -400,
-    "category": "conocimiento",
+    "category": "estoicismo",
     "tags": ["ignorancia", "sabiduria"],
     "language": "es"
   },
@@ -13,7 +13,7 @@
     "text": "El hombre está condenado a ser libre.",
     "author": "Jean-Paul Sartre",
     "year": 1943,
-    "category": "libertad",
+    "category": "motivacion",
     "tags": ["existencialismo", "responsabilidad"],
     "language": "es"
   },
@@ -22,7 +22,7 @@
     "text": "Dios ha muerto.",
     "author": "Friedrich Nietzsche",
     "year": 1882,
-    "category": "existencialismo",
+    "category": "resiliencia",
     "tags": ["nihilismo", "religion"],
     "language": "es"
   },
@@ -31,7 +31,7 @@
     "text": "Pienso, luego existo.",
     "author": "René Descartes",
     "year": 1637,
-    "category": "conocimiento",
+    "category": "motivacion",
     "tags": ["razon", "duda"],
     "language": "es"
   },
@@ -40,7 +40,7 @@
     "text": "La felicidad no es algo hecho. Viene de tus propias acciones.",
     "author": "Buda",
     "year": -500,
-    "category": "felicidad",
+    "category": "motivacion",
     "tags": ["acciones", "vida"],
     "language": "es"
   },
@@ -49,7 +49,7 @@
     "text": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
     "author": "Friedrich Nietzsche",
     "year": 1889,
-    "category": "proposito",
+    "category": "resiliencia",
     "tags": ["vida", "resiliencia"],
     "language": "es"
   },
@@ -67,7 +67,7 @@
     "text": "La vida es realmente simple, pero insistimos en hacerla complicada.",
     "author": "Confucio",
     "year": -500,
-    "category": "vida",
+    "category": "estoicismo",
     "tags": ["simplicidad"],
     "language": "es"
   },
@@ -76,7 +76,7 @@
     "text": "Nada es permanente, excepto el cambio.",
     "author": "Heráclito",
     "year": -500,
-    "category": "cambio",
+    "category": "resiliencia",
     "tags": ["tiempo", "transformacion"],
     "language": "es"
   },
@@ -85,7 +85,7 @@
     "text": "El que tiene miedo de sufrir ya sufre por lo que teme.",
     "author": "Michel de Montaigne",
     "year": 1580,
-    "category": "ansiedad",
+    "category": "estoicismo",
     "tags": ["miedo", "pensamiento"],
     "language": "es"
   },
@@ -94,7 +94,7 @@
     "text": "La felicidad depende de nosotros mismos.",
     "author": "Aristóteles",
     "year": -350,
-    "category": "felicidad",
+    "category": "gratitud",
     "tags": ["control", "vida"],
     "language": "es"
   },
@@ -103,7 +103,7 @@
     "text": "El sabio no dice todo lo que piensa, pero siempre piensa todo lo que dice.",
     "author": "Aristóteles",
     "year": -350,
-    "category": "sabiduria",
+    "category": "disciplina",
     "tags": ["comunicacion", "mente"],
     "language": "es"
   },
@@ -112,7 +112,7 @@
     "text": "El hombre es la medida de todas las cosas.",
     "author": "Protágoras",
     "year": -450,
-    "category": "relativismo",
+    "category": "estoicismo",
     "tags": ["percepcion"],
     "language": "es"
   },
@@ -130,7 +130,7 @@
     "text": "El mayor error del ser humano es intentar sacar de su cabeza aquello que no sale de su corazón.",
     "author": "Arthur Schopenhauer",
     "year": 1851,
-    "category": "emociones",
+    "category": "nostalgia",
     "tags": ["mente", "sentimientos"],
     "language": "es"
   },
@@ -139,7 +139,7 @@
     "text": "La libertad no consiste en hacer lo que se quiere, sino en no ser esclavo de nada.",
     "author": "Epicteto",
     "year": 120,
-    "category": "libertad",
+    "category": "estoicismo",
     "tags": ["control", "estoicismo"],
     "language": "es"
   },
@@ -148,7 +148,7 @@
     "text": "El dolor es inevitable, el sufrimiento es opcional.",
     "author": "Buda",
     "year": -500,
-    "category": "estoicismo",
+    "category": "resiliencia",
     "tags": ["dolor", "mente"],
     "language": "es"
   },
@@ -157,7 +157,7 @@
     "text": "La verdadera sabiduría está en reconocer la propia ignorancia.",
     "author": "Sócrates",
     "year": -400,
-    "category": "conocimiento",
+    "category": "estoicismo",
     "tags": ["sabiduria"],
     "language": "es"
   },
@@ -166,7 +166,7 @@
     "text": "Cuanto más conozco a los hombres, más quiero a mi perro.",
     "author": "Diógenes",
     "year": -350,
-    "category": "sociedad",
+    "category": "gratitud",
     "tags": ["critica", "humanidad"],
     "language": "es"
   },
@@ -175,7 +175,7 @@
     "text": "No hay viento favorable para quien no sabe a dónde va.",
     "author": "Séneca",
     "year": 60,
-    "category": "proposito",
+    "category": "motivacion",
     "tags": ["direccion", "vida"],
     "language": "es"
   },
@@ -184,7 +184,7 @@
     "text": "El obstáculo es el camino.",
     "author": "Marco Aurelio",
     "year": 170,
-    "category": "estoicismo",
+    "category": "resiliencia",
     "tags": ["dificultad", "crecimiento"],
     "language": "es"
   },
@@ -193,7 +193,7 @@
     "text": "Si no controlas tu mente, alguien más lo hará.",
     "author": "John Allston",
     "year": 1800,
-    "category": "mente",
+    "category": "disciplina",
     "tags": ["control", "pensamiento"],
     "language": "es"
   },
@@ -202,7 +202,7 @@
     "text": "No es pobre el que tiene poco, sino el que desea mucho.",
     "author": "Séneca",
     "year": 60,
-    "category": "filosofia",
+    "category": "gratitud",
     "tags": ["deseo", "vida"],
     "language": "es"
   },
@@ -211,7 +211,7 @@
     "text": "La calidad de tu vida depende de la calidad de tus pensamientos.",
     "author": "Marco Aurelio",
     "year": 170,
-    "category": "mente",
+    "category": "estoicismo",
     "tags": ["pensamiento", "vida"],
     "language": "es"
   },
@@ -247,7 +247,7 @@
     "text": "La mente lo es todo. En lo que piensas te conviertes.",
     "author": "Buda",
     "year": -500,
-    "category": "mente",
+    "category": "motivacion",
     "tags": ["pensamiento", "identidad"],
     "language": "es"
   },
@@ -256,7 +256,7 @@
     "text": "El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión de conocimiento.",
     "author": "Stephen Hawking",
     "year": 1988,
-    "category": "conocimiento",
+    "category": "disciplina",
     "tags": ["error", "mente"],
     "language": "es"
   },
@@ -265,8 +265,98 @@
     "text": "Haz lo que puedas, con lo que tengas, donde estés.",
     "author": "Theodore Roosevelt",
     "year": 1901,
-    "category": "accion",
+    "category": "motivacion",
     "tags": ["practico", "vida"],
+    "language": "es"
+  },
+  {
+    "id": "q31",
+    "text": "A veces no echamos de menos un lugar, sino la persona que éramos cuando estábamos allí.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "nostalgia",
+    "tags": ["recuerdos", "identidad", "pasado"],
+    "language": "es"
+  },
+  {
+    "id": "q32",
+    "text": "Hay momentos que solo descubrimos que eran felices cuando se convierten en recuerdos.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "nostalgia",
+    "tags": ["felicidad", "recuerdos", "tiempo"],
+    "language": "es"
+  },
+  {
+    "id": "q33",
+    "text": "No todos los recuerdos duelen por lo que ocurrió; algunos duelen porque sabemos que no volverán.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "nostalgia",
+    "tags": ["pasado", "ausencia", "tiempo"],
+    "language": "es"
+  },
+  {
+    "id": "q34",
+    "text": "Crecer también significa despedirse de versiones de nosotros mismos que nunca volveremos a ser.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "nostalgia",
+    "tags": ["crecimiento", "cambio", "identidad"],
+    "language": "es"
+  },
+  {
+    "id": "q35",
+    "text": "La gratitud no consiste en tenerlo todo, sino en reconocer el valor de lo que ya tenemos.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "gratitud",
+    "tags": ["apreciacion", "presente", "felicidad"],
+    "language": "es"
+  },
+  {
+    "id": "q36",
+    "text": "Lo que hoy consideras cotidiano, algún día podría convertirse en aquello que más extrañes.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "gratitud",
+    "tags": ["presente", "recuerdos", "apreciacion"],
+    "language": "es"
+  },
+  {
+    "id": "q37",
+    "text": "Aprende a valorar a quienes permanecen, no solamente a extrañar a quienes se fueron.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "gratitud",
+    "tags": ["relaciones", "presente", "apreciacion"],
+    "language": "es"
+  },
+  {
+    "id": "q38",
+    "text": "No confundas avanzar lentamente con no avanzar. Cada pequeño paso también acorta la distancia.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "motivacion",
+    "tags": ["progreso", "paciencia", "superacion"],
+    "language": "es"
+  },
+  {
+    "id": "q39",
+    "text": "La disciplina comienza cuando haces lo necesario incluso en los días en los que no tienes ganas.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "disciplina",
+    "tags": ["constancia", "habitos", "esfuerzo"],
+    "language": "es"
+  },
+  {
+    "id": "q40",
+    "text": "Sanar no significa olvidar lo que te hizo daño, sino aprender a vivir sin que siga dirigiendo tus pasos.",
+    "author": "Mental Quotes",
+    "year": 2026,
+    "category": "resiliencia",
+    "tags": ["sanacion", "superacion", "pasado"],
     "language": "es"
   }
 ]

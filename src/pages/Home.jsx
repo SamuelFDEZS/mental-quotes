@@ -4,7 +4,7 @@ import { ExploreCategories } from '../components/Home/ExploreCategories';
 import { FeaturedAuthors } from '../components/Home/FeaturedAuthors';
 import { Footer } from '../components/Global/Footer';
 
-export const Home = () => {
+export const Home = ({ quoteList }) => {
     return <>
         <Header />
         <MainLayout />
